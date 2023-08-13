@@ -13,8 +13,8 @@ Features
 👉Express Checkout: Speed up the ordering process with an express checkout option, allowing you to save your favorite meals and payment preferences.
 
 👉Real-time Tracking: Track your order's status in real-time, from preparation to delivery, keeping you informed every step of the way.
-👉
-Responsive Design: The platform's responsive design ensures a seamless experience on various devices, from smartphones to desktops.
+
+👉Responsive Design: The platform's responsive design ensures a seamless experience on various devices, from smartphones to desktops.
 
 👉Sign-in with Google: Simplify the registration and login process by using your Google account.
 How It Works
