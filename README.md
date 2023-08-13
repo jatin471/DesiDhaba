@@ -22,9 +22,13 @@ How It Works
 DesiDhaba leverages cutting-edge technologies to create a seamless and efficient food ordering platform:
 
 🟢Express and Node.js: The backend is built using Express and Node.js, providing a robust and scalable foundation for handling orders and user interactions.
+
 🟢React: The frontend is developed with React, ensuring a dynamic and interactive user interface.
+
 🟢Firebase: Firebase is used for user authentication and real-time data synchronization, enhancing the overall user experience.
+
 🟢Stripe Payment Gateway: The integration of the Stripe payment gateway ensures secure and smooth payment transactions.
+
 🟢Tailwind CSS: Tailwind CSS is utilized for efficient and customizable styling, ensuring a visually appealing and responsive design.
 Getting Started
 
